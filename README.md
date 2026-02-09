@@ -28,5 +28,5 @@ See `requirements.txt`.
 ## Notes
 
 This project was developed as part of a Computer Vision course's project.
-#contributers: Shayan Masoudzadeh and Shadi Akbarsharifi
-#Professor's Name : Marco Raoul Marini
+- Contributers: Shayan Masoudzadeh and Shadi Akbarsharifi
+- Professor's Name : Marco Raoul Marini
